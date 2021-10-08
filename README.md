@@ -3,6 +3,9 @@ Max Movies is a kodi addon that scrapes movies, tv shows and live TV channels fr
 
 # Note: This plugin can play DRM Files too!
 
+# My Kodi Repo
+https://henry-richard.ml/Kodi%20Repos/
+
 # Screenshots
 ![Screenshot (10)](https://user-images.githubusercontent.com/68910039/113399042-2e4f8f00-93bd-11eb-9cfc-925a37be73c9.png)
 ![Screenshot (11)](https://user-images.githubusercontent.com/68910039/113399046-30b1e900-93bd-11eb-89fc-7df1f5952c4e.png)
