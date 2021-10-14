@@ -1,3 +1,6 @@
+# Badges
+![Downloads](https://img.shields.io/github/downloads/henry-richard7/Max-Movies-Kodi-Addon/total.svg?style=for-the-badge&logo=github)
+
 # Max-Movies-Kodi-Addon
 Max Movies is a kodi addon that scrapes movies, tv shows and live TV channels from https://www.mxplayer.in/
 
